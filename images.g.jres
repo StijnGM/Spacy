@@ -1,0 +1,19 @@
+{
+    "psGrVz{[_c}nkJ~jVjw,": {
+        "data": "hwQQAAIAAAARAAAAEQAAABEAAAARAAAAEQAAABEAAAARAAAAEQAAABEAAAARAAAAEQAAABEAAAARAAAAEQAAABEAAAARAAAA",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "laser1"
+    },
+    "F{kt(sq[F)G6F/nM!/%m": {
+        "namespace": "myImages",
+        "id": "F{kt(sq[F)G6F/nM!/%m",
+        "mimeType": "application/mkcd-animation",
+        "data": "NjQwMDEwMDAwNDAwMDIwMDExMTExMTExMTExMTExMTExMTExMTExMTExMTExMTExMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDExMTExMTExMTExMTExMTExMTExMTExMTExMTExMTEx",
+        "displayName": "laser2"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
