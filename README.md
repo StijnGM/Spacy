@@ -2,7 +2,7 @@
 https://makecode.com/_dqu9A9iHX5kg
 
 QR code:
-[QR](https://i.imgur.com/OTFxoE7_d.png)
+![QR](https://i.imgur.com/OTFxoE7_d.png)
 
 ## Edit this project ![Build status badge](https://github.com/stijngm/spacy/workflows/MakeCode/badge.svg)
 
