@@ -206,6 +206,8 @@ game.onUpdate(function () {
 })
 forever(function () {
     if (hearts.count == 0) {
+        effects.blizzard.startScreenEffect(500)
+        pause(500)
         info.setScore(score.count)
         game.over(false, effects.dissolve)
     }
