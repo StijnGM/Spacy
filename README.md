@@ -5,7 +5,7 @@ QR code:
 
 ![QR](https://i.imgur.com/OTFxoE7_d.png)
 
-## Edit this project ![Build status badge](https://github.com/stijngm/spacy/workflows/MakeCode/badge.svg)
+## Edit this project ![Build status badge](https://github.com/ThunderNL/spacy/workflows/MakeCode/badge.svg)
 
 To edit this repository in MakeCode.
 
@@ -18,4 +18,4 @@ To edit this repository in MakeCode.
 This image shows the blocks code from the last commit in master.
 This image may take a few minutes to refresh.
 
-![A rendered view of the blocks](https://github.com/stijngm/spacy/raw/master/.github/makecode/blocks.png)
+![A rendered view of the blocks](https://github.com/ThunderNL/spacy/raw/master/.github/makecode/blocks.png)
