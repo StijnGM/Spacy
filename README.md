@@ -3,7 +3,7 @@ https://thundernl.github.io/Spacy/
 
 QR code:
 
-![QR](https://chart.googleapis.com/chart?chs=150x150&cht=qr&chl=https://thundernl.github.io/Spacy/)
+![QR](https://chart.googleapis.com/chart?chs=256x256&cht=qr&chl=https://thundernl.github.io/Spacy/)
 
 ## Edit this project ![Build status badge](https://github.com/ThunderNL/spacy/workflows/MakeCode/badge.svg)
 
