@@ -1,9 +1,9 @@
  Play my game in makecode:
-https://makecode.com/_2uXcthK8FfKH
+thundernl.github.io/Spacy/
 
 QR code:
 
-![QR](https://i.imgur.com/e5tteAD_d.png)
+![QR](https://chart.googleapis.com/chart?chs=150x150&cht=qr&chl=thundernl.github.io/Spacy/)
 
 ## Edit this project ![Build status badge](https://github.com/ThunderNL/spacy/workflows/MakeCode/badge.svg)
 
