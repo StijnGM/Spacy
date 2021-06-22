@@ -1,4 +1,4 @@
- Play my game in makecode:
+ Play my game:
 https://thundernl.github.io/Spacy/
 
 QR code:
