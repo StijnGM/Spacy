@@ -187,13 +187,17 @@ scene.setBackgroundImage(img`
     `)
 hearts = sevenseg.createCounter(SegmentStyle.Thin, SegmentScale.Half, 1)
 hearts.count = 3
-hearts.x = 53
+hearts.x = 80
 hearts.y = 8
 hearts.setDigitColor(1)
-score = sevenseg.createCounter(SegmentStyle.Thin, SegmentScale.Half, 3)
-score.x = 106
+score = sevenseg.createCounter(SegmentStyle.Thin, SegmentScale.Half, 4)
+score.x = 40
 score.y = 8
 score.setDigitColor(1)
+let timesec = sevenseg.createCounter(SegmentStyle.Thin, SegmentScale.Half, 4)
+timesec.x = 120
+timesec.y = 8
+timesec.setDigitColor(1)
 game.onUpdate(function () {
     ship.x = 24
     if (ship.y < 25) {
@@ -285,9 +289,13 @@ forever(function () {
     if (hearts.count == 0) {
         effects.blizzard.startScreenEffect(500)
         pause(500)
-        info.setScore(score.count)
+        info.setScore(score.count * Math.sqrt(timesec.count))
         game.over(false, effects.dissolve)
     }
+})
+forever(function () {
+    pause(1000)
+    timesec.count += 1
 })
 game.onUpdateInterval(500, function () {
     enemysquare = sprites.create(img`
